@@ -98,10 +98,13 @@ git pull origin nama_branch
 
 ## git fetch
 
+
+Untuk mengambil list branch yang ada pada repositori
+
 **Command**
 
 ``` bash
-git 
+git fetch --all
 ```
 
 ## git checkout

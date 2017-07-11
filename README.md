@@ -106,3 +106,7 @@ git
 ``` bash
 git 
 ```
+
+## Reference
+
+- [Git Remote](https://help.github.com/articles/changing-a-remote-s-url/)

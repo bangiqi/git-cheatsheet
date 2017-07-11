@@ -4,7 +4,7 @@ Cheatsheet command git
 
 ### init
 
-`` Command``
+**Command**
 
 ``` bash
 git init
@@ -12,14 +12,14 @@ git init
 
 ### add
 
-`` Command``
+**Command**
 
 ``` bash
 git add .
 ```
 ### status
 
-`` Command``
+**Command**
 
 ``` bash
 git status
@@ -27,7 +27,7 @@ git status
 
 ### log
 
-`` Command``
+**Command**
 
 ``` bash
 git log
@@ -35,7 +35,7 @@ git log
 
 ### commit
 
-`` Command``
+**Command**
 
 ``` bash
 git 
@@ -45,7 +45,7 @@ git
 
 Untuk melihat remote repository yang berada pada folder suatu project git 
 
-`` Command``
+**Command**
 
 ``` bash
 git remote -v
@@ -53,7 +53,7 @@ git remote -v
 
 Untuk mengganti alamat remote repository yang berada pada folder suatu project git 
 
-`` Command``
+**Command**
 
 ``` bash
 git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
@@ -62,7 +62,7 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 ### push
 
-`` Command``
+**Command**
 
 ``` bash
 git push origin nama_branch 
@@ -70,14 +70,14 @@ git push origin nama_branch
 
 ### pull
 
-`` Command``
+**Command**
 
 ``` bash
 git pull 
 ```
 atau 
 
-`` Command``
+**Command**
 
 ``` bash
 git pull origin nama_branch 
@@ -85,7 +85,7 @@ git pull origin nama_branch
 
 ### fetch
 
-`` Command``
+**Command**
 
 ``` bash
 git 
@@ -93,7 +93,7 @@ git
 
 ### checkout
 
-`` Command``
+**Command**
 
 ``` bash
 git 
@@ -101,7 +101,7 @@ git
 
 ### branch
 
-`` Command``
+**Command**
 
 ``` bash
 git 

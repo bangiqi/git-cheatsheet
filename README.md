@@ -23,7 +23,13 @@ git add .
 **Command**
 
 ``` bash
-git clone -b my-branch https://git@github.com/username/myproject.git
+git clone https://github.com/username/myproject.git
+```
+
+**Command**
+
+``` bash
+git clone -b my-branch https://github.com/username/myproject.git
 ```
 ## git status
 

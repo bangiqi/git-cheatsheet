@@ -17,6 +17,14 @@ git init
 ``` bash
 git add .
 ```
+
+## git clone
+
+**Command**
+
+``` bash
+git clone -b my-branch https://git@github.com/username/myproject.git
+```
 ## git status
 
 **Command**
@@ -109,3 +117,4 @@ git
 ## Reference
 
 - [Git Remote](https://help.github.com/articles/changing-a-remote-s-url/)
+- [Git Clone Branch](https://stackoverflow.com/questions/1911109/how-to-clone-a-specific-git-branch)
